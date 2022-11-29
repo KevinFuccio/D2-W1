@@ -1,0 +1,47 @@
+body {
+    background-color: #262626;
+}
+.mainpage {
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+}
+#contenuto {
+    text-align: start;
+    margin-bottom: 50px;
+}
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+    margin-bottom: 50px;
+
+  }
+  table{
+    border-collapse: collapse;
+    text-align: left;
+    width: 20%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    
+    
+  }
+#tabella {
+    background-color: rgb(69, 126, 231);
+    text-align: left;
+}
+tr {
+    background-color: rgb(214, 210, 210);
+    border-bottom: 1px solid black;
+}
+#contenuto2 {
+    text-align: start;
+    margin-top: 40px;
+}
+footer{
+    margin-top: 50px;
+    text-align: left;
+}
+#correlati{
+    margin-bottom: 20px;
+}
